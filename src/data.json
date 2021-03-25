@@ -1,0 +1,174 @@
+{
+  "colors": [
+    {
+      "name": "Peach-Orange",
+      "hex": "#F5C691",
+      "rgb": [245, 198, 145]
+    },
+    {
+      "name": "Light Orange",
+      "hex": "#FED8B2",
+      "rgb": [254, 216, 178]
+    },
+    {
+      "name": "Blanched Almond",
+      "hex": "#FEE9CE",
+      "rgb": [254, 233, 206]
+    },
+    {
+      "name": "Argent",
+      "hex": "#BFBFBF",
+      "rgb": [191, 191, 191]
+    },
+    {
+      "name": "Silver Chalice",
+      "hex": "#ACACAC",
+      "rgb": [172, 172, 172]
+    },
+    {
+      "name": "Dark Charcoal",
+      "hex": "#323232",
+      "rgb": [50, 50, 50]
+    },
+    {
+      "name": "Pale Red-Violet",
+      "hex": "#D9718B",
+      "rgb": [217, 113, 139]
+    },
+    {
+      "name": "Light Coral",
+      "hex": "#F88383",
+      "rgb": [248, 131, 131]
+    },
+    {
+      "name": "Mellow Apricot",
+      "hex": "#F8BB7C",
+      "rgb": [248, 187, 124]
+    },
+    {
+      "name": "Khaki",
+      "hex": "#F2E189",
+      "rgb": [242, 225, 137]
+    },
+    {
+      "name": "Medium Spring Bud",
+      "hex": "#C9D080",
+      "rgb": [201, 208, 128]
+    },
+    {
+      "name": "Olivine",
+      "hex": "#A9C581",
+      "rgb": [169, 197, 129]
+    },
+    {
+      "name": "Dark Spring Green",
+      "hex": "#1A7341",
+      "rgb": [26, 115, 65]
+    },
+    {
+      "name": "Sea Green",
+      "hex": "#338941",
+      "rgb": [51, 137, 65]
+    },
+    {
+      "name": "RYB Green",
+      "hex": "#7AB033",
+      "rgb": [122, 176, 51]
+    },
+    {
+      "name": "Dodie Yellow",
+      "hex": "#FBFB55",
+      "rgb": [251, 251, 85]
+    },
+    {
+      "name": "Metallic Yellow",
+      "hex": "#FBCA08",
+      "rgb": [251, 202, 8]
+    },
+    {
+      "name": "Carmine Pink",
+      "hex": "#EC4E4E",
+      "rgb": [236, 78, 78]
+    },
+    {
+      "name": "Middle Blue Green",
+      "hex": "#92D9CB",
+      "rgb": [146, 217, 203]
+    },
+    {
+      "name": "Caroline Blue",
+      "hex": "#51A2CD",
+      "rgb": [81, 162, 205]
+    },
+    {
+      "name": "Chinese Blue",
+      "hex": "#475795",
+      "rgb": [71, 87, 149]
+    },
+    {
+      "name": "Blush",
+      "hex": "#E7617C",
+      "rgb": [231, 97, 124]
+    },
+    {
+      "name": "Light Salmon Pink",
+      "hex": "#F8A1A1",
+      "rgb": [248, 161, 161]
+    },
+    {
+      "name": "Wheat",
+      "hex": "#F6D9B2",
+      "rgb": [246, 217, 178]
+    },
+    {
+      "name": "Medium Aquamarine",
+      "hex": "#54EAB1",
+      "rgb": [84, 234, 177]
+    },
+    {
+      "name": "Majorelle Blue",
+      "hex": "#6558DA",
+      "rgb": [101, 88, 218]
+    },
+    {
+      "name": "Mandarin",
+      "hex": "#F57A3D",
+      "rgb": [245, 122, 61]
+    },
+    {
+      "name": "Jasmine",
+      "hex": "#FFD77D",
+      "rgb": [255, 215, 125]
+    },
+    {
+      "name": "Electric Pink",
+      "hex": "#FF3075",
+      "rgb": [255, 48, 117]
+    },
+    {
+      "name": "Wenge",
+      "hex": "#6E5152",
+      "rgb": [110, 81, 82]
+    },
+    {
+      "name": "Crayola's Copper",
+      "hex": "#D4856A",
+      "rgb": [212, 133, 106]
+    },
+    {
+      "name": "Straw",
+      "hex": "#E6D17B",
+      "rgb": [230, 209, 123]
+    },
+    {
+      "name": "Moonstone Blue",
+      "hex": "#64B6BC",
+      "rgb": [100, 182, 188]
+    },
+    {
+      "name": "Metallic Blue",
+      "hex": "#3D5184",
+      "rgb": [61, 81, 132]
+    }
+  ]
+}

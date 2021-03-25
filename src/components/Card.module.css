@@ -1,0 +1,23 @@
+.card {
+  height: 270px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 5px;
+  -webkit-box-shadow: 10px 9px 13px -1px rgba(0, 0, 0, 0.63);
+  box-shadow: 10px 9px 13px -1px rgba(0, 0, 0, 0.63);
+  background-color: white;
+}
+
+.image {
+  height: 100%;
+}
+
+.text {
+  font-size: 18px;
+  margin: 5px 2px;
+  text-align: center;
+  padding: 0 10px;
+}
